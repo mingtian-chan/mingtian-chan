@@ -79,3 +79,5 @@ print('Geg'.find('g'))  # 소문자 g 를 찾기
 a = input('첫번쨰 숫자: ')
 b = input('두번째 숫자: ')
 print('{} + {} = {}'.format(a, b, int(a)+int(b)))
+
+# 참고 사이트 https://m.blog.naver.com/jnlovejy/221752289387
