@@ -42,7 +42,7 @@ for key in character:
         print(f'{key} : {character[key]}')
     elif type(character[key]) is dict:
         for item_key in character[key]:
-            print(item_key,':', character[key][item_key])
+            print(f'{item_key}: {character[key][item_key]}')
     elif type(character[key]) is list:
         for skill in character[key]:
             print(key, ":", skill)
