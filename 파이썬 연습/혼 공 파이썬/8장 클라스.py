@@ -49,4 +49,4 @@ print(test.__le__(30))
 # print("test >= 90:", test >= 90)
 # print("test <  90:", test < 90)
 # print("test <= 90:", test <= 90)
-#
+# 이게 지 알아서 큰지 작은지를 비교해주는 함수라서 지 알아서 크기비교해줌
