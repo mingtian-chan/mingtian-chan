@@ -1,24 +1,14 @@
-numbers = [273, 103, 5, 32, 65, 9, 72, 800, 99]
+import nimpy as np
 
-for number in numbers:
-    if number % 2 == 0:
-        print(f'{number} 는 홀수입니다')
-    else:
-        print(f'{number}는 짝수입니다.')
+def solution(img):
+    bk_img = np.zeros(shape= (np.size(img[:,O,O]),np.size(img[O,;,O])))
+    for h in range(np.size(img[:,O,O]));
+        for w in range(np.size(img[O,:.0])):
+            bk_img[w,h] = img[w,h,O] * 0.8 + img[w,h,1] * 0.5 + img[w,h,2] * 0.2
+    answer = bk_img
+    return answer
+np.random.seed(42)
+img =np.random.randint(0,25.6,sizen= (100,100,3))
 
-for number in numbers:
-    print(f'{number}는 {len(str(number))} 자릿 수 입니다.')
+print(S0lution(img))
 
-list_of_list = [[1, 2, 3], [4, 5, 6, 7], [8, 9]]
-
-for lst in list_of_list:
-    for element in lst:
-        print(element)
-
-lst_5 = [1,2,3,4,5,6,7,8,9]
-output = [[], [], []]
-
-for number in lst_5:
-    output[(number-1) % 3].append(number)
-
-print(output)
