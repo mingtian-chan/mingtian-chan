@@ -10,9 +10,16 @@ for i in range(seq-1):
             best_grade = grade
 print(int(best_grade[0]), int(best_grade[1]))
 
+## 충격적인 모범답안
+scores = []
+n = int(input())
 
+for i in range(n):
+    scores.append(list(map(int, input().split())))
 
+scores.sort(key = lambda t : (-t[0], t[1]))
 
+print(scores[0])
 
 
 

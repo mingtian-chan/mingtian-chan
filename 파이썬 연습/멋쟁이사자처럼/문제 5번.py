@@ -14,6 +14,6 @@ print(int(best_grade[0]), int(best_grade[1]))
 # 오목 가능한 가짓수 : 가로로 5개x 12345 y n 세로로 5개 x n y 12345
 # 계단식 우하단,x 12345 y 12345  계단식 좌하단x 12345 y 54321
 
-def fiverock(rocks):
-    for rock in rocks:
+# def fiverock(rocks):
+#     for rock in rocks:
 
