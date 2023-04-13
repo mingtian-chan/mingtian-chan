@@ -1,6 +1,7 @@
 ﻿![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=MaengChan&fontSize=90)
 
 <div align="center" style="text-align:center">
+
 ### Welcome. I'm chan. 😊
 I'm studying Computer Science at Kookmin University.
 
@@ -14,6 +15,10 @@ I'm studying Computer Science at Kookmin University.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingtian-chan)](https://github.com/mingtian-chan/github-readme-stats)
-<br>
+
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jia5232)](https://solved.ac/jia5232)
+
 
 </div>
