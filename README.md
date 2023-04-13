@@ -18,7 +18,7 @@ I'm studying Computer Science at Kookmin University.
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingtian-chan)](https://solved.ac/mingtian-chan)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingtian90)](https://solved.ac/mingtian90)
 
 
 </div>
