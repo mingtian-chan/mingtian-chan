@@ -6,7 +6,7 @@
 I'm studying Computer Science at Kookmin University.
 
 ### 🌱 I’m currently learning
-Computer Science, Web Dev, UI/UX design, Product Management
+Computer Science, Web Dev, Spring
 ### 🚀 Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
