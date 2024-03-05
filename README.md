@@ -15,8 +15,6 @@ Computer Science, Web Dev, Spring
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![image](https://github.com/mingtian-chan/mingtian-chan/assets/89979849/31718d0b-874a-4424-96d7-795a21ff93e2)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingtian-chan)](https://github.com/mingtian-chan/github-readme-stats)
 
